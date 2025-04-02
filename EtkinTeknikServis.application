@@ -15,7 +15,7 @@
   </compatibleFrameworks>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="Application Files\EtkinTeknikServis_1_0_1_2\EtkinTeknikServis.exe.manifest" size="22890">
-      <assemblyIdentity name="EtkinTeknikServis.exe" version="1.0.1.2" publicKeyToken="8f25d3223a77f4da" language="neutral" processorArchitecture="amd64" type="win32" />
+      <assemblyIdentity name="EtkinTeknikServis.exe" version="1.0.1.4" publicKeyToken="8f25d3223a77f4da" language="neutral" processorArchitecture="amd64" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
